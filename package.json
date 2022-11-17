@@ -1,0 +1,14 @@
+{
+  "name": "eth-keygen",
+  "version": "1.0.0",
+  "description": "An ethereum private key generator. Useful for burner accounts.",
+  "main": "main.js",
+  "bin": {
+    "eth-keygen": "./main.js"
+  },
+  "author": "Jeremy Chiaramonte",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "5.7.2"
+  }
+}
